@@ -11,7 +11,9 @@
           43.23902555549334
         ],
         "day": 450,
-        "morning": 111
+        "morning": 111,
+        "night": 40,
+        "weekend": 400
       },
       "geometry": {
         "coordinates": [
@@ -49,7 +51,9 @@
           43.23830505776012
         ],
         "day": 488,
-        "morning": 880
+        "morning": 880,
+        "night": 150,
+        "weekend": 770
       },
       "geometry": {
         "coordinates": [
@@ -87,7 +91,9 @@
           43.238758022711046
         ],
         "day": 40,
-        "morning": 550
+        "morning": 550,
+        "night": 88,
+        "weekend": 888
       },
       "geometry": {
         "coordinates": [
