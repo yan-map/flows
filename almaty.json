@@ -7,13 +7,14 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          76.94914040033416,
-          43.23902555549334
+          76.94956230609345,
+          43.23898229021224
         ],
         "day": 450,
         "morning": 111,
         "night": 40,
-        "weekend": 400
+        "weekend": 400,
+        "orientation": "vert"
       },
       "geometry": {
         "coordinates": [
