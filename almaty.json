@@ -7,8 +7,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          76.94888202314593,
-          43.239301080968566
+          76.949005982389,
+          43.2391265071415
         ],
         "day": 450,
         "morning": 111,
@@ -52,7 +52,7 @@
           43.23830505776012
         ],
         "day": 488,
-        "morning": 880,
+        "morning": 450,
         "night": 150,
         "weekend": 770
       },
@@ -88,13 +88,14 @@
       "properties": {
         "type": "ngpt",
         "labelPos": [
-          76.94882620852466,
-          43.238758022711046
+          76.94831628924192,
+          43.238668691147595
         ],
         "day": 40,
         "morning": 550,
         "night": 88,
-        "weekend": 888
+        "weekend": 888,
+        "orientation": "vert"
       },
       "geometry": {
         "coordinates": [
